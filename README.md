@@ -1,3 +1,6 @@
+\\ CALCULADORA EM PORTUGOL.
+\\SIGA @RENANCYBROG NO INSTAGRAM
+
 programa {
   funcao inicio() {
     
